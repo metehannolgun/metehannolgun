@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Metehan Olgun 👋
 
 💻 I'm a passionate **Front-End & Mobile Developer** who loves building user-friendly, modern, and efficient applications.  
@@ -37,6 +35,7 @@ I enjoy working on both **web** and **mobile** projects, always focusing on clea
 
 ## 📫 Connect With Me
 - GitHub: [@metehannolgun](https://github.com/metehannolgun)  
+- LinkedIn: [metehannolgun](https://www.linkedin.com/in/metehannolgun)  
 - Email: metehannolgun@gmail.com  
 
 ---
